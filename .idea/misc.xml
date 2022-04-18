@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/drawable/background.xml" value="0.2295" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/drawable/background_splash.xml" value="0.2295" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_home_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_order_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_parking_status.xml" value="0.264" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_register_user.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/activity_reserve_parking.xml" value="0.264" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/content_order_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/list_items.xml" value="0.467444120505345" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/layout/settings_activity.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/menu/nearby_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/menu/normal_bottom_nav_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/MIE-5/CapstoneTest/app/src/main/res/menu/owner_bottom_nav_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/almuh/AndroidStudioProjects/CapstoneTest/app/src/main/res/drawable/btn_shape.xml" value="0.214" />
+        <entry key="..\:/Users/almuh/AndroidStudioProjects/CapstoneTest/app/src/main/res/drawable/textboxshape.xml" value="0.214" />
+        <entry key="..\:/Users/almuh/AndroidStudioProjects/CapstoneTest/app/src/main/res/layout/activity_home_page.xml" value="0.4" />
+        <entry key="..\:/Users/almuh/AndroidStudioProjects/CapstoneTest/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/almuh/AndroidStudioProjects/CapstoneTest/app/src/main/res/layout/activity_register_user.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
