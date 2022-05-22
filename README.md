@@ -85,3 +85,4 @@ as accurately as possible, and that the database is receiving the correct inform
 ![image](https://user-images.githubusercontent.com/38332442/169718764-74b64e2b-9b29-4864-90f9-54792a2e6f9d.png)
 ![image](https://user-images.githubusercontent.com/38332442/169718775-37653935-e88d-4b8a-97e1-e2ff26ff68a8.png)
 
+P.S: The Raspberry Pi/Server logic can be seen in the sever.py file
